@@ -1,12 +1,24 @@
 ### Hi there 👋
 
-<!--
-**gosmain/gosmain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--
+### WORK EXPERIENCES
+
+### EDUCATION
+
+* Xian Jiatong Liverpool University, 2020.09~
+
+### ACHIEVEMENTS
+
+### PROJECTS
+
+### EXTRACURRICULAR ACTIVITIES
+
+### OTHER EXPERIENCES
+
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Javascript, Typescript and React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
