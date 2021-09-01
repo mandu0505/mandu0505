@@ -16,6 +16,7 @@
 
 ### OTHER EXPERIENCES
 
+* Baekjoon AC Rating : 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Javascript, Typescript and React
