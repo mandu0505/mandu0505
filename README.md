@@ -6,7 +6,7 @@
 
 ### EDUCATION
 
-* Xian Jiatong Liverpool University, 2020.09~
+* Xi'an Jiaotong Liverpool University, 2020.09~
 
 ### ACHIEVEMENTS
 
