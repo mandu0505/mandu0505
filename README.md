@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2353CDD7&size=25&lines=Hi%2C+there)](https://git.io/typing-svg)
 
-# 고영민 Youngmin Ko
+# Youngmin Ko
 FE Developer  
   
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
