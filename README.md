@@ -22,6 +22,5 @@
   ![github stats](https://github-readme-stats.vercel.app/api?username=mandu0505)
   <br>
   ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mandu0505&hide_border=true&layout=compact)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mandu0505&theme=chalk&row=1&column=2&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
+ 
 </div>
