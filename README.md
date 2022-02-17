@@ -11,7 +11,7 @@
 
 <br>
 
-**[WEBSITE](https://www.mandu0505.com/)** | **[RESUME(en)](https://mandu0505.notion.site/Youngmin-mandu0505-2753797a76154a47bacd179d0564fbb8)** | **[RESUME(ko)](https://mandu0505.notion.site/mandu0505-21db250e06b741c5b084d5f13fe49fa8)**
+**[RESUME(en)](https://mandu0505.notion.site/Youngmin-mandu0505-2753797a76154a47bacd179d0564fbb8)** | **[RESUME(ko)](https://mandu0505.notion.site/mandu0505-21db250e06b741c5b084d5f13fe49fa8)**
 
 
 <!--   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmandu0505&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
