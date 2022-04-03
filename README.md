@@ -14,23 +14,26 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
 </p>
 
- 
-<!-- <h3>Website & Resume</h3>
+<h3>Website & Portfolio</h3>
+ <p>
+  <a href="https://mandu0505.notion.site/Youngmin-mandu0505-2753797a76154a47bacd179d0564fbb8" target="_blank" alt="resume">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" />
+  </a>
+  <a href="https://mandu0505.com/" target="_blank" alt="website">
+    <img src="https://img.shields.io/badge/-Website-blueviolet?style=flat-square&logoColor=white" />
+  </a>
+   <a href="https://www.linkedin.com/in/youngmin-ko-0994a411b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+</p>
 
-**[RESUME(En)](https://mandu0505.notion.site/Youngmin-mandu0505-2753797a76154a47bacd179d0564fbb8)** | **[RESUME(Kr)](https://mandu0505.notion.site/mandu0505-21db250e06b741c5b084d5f13fe49fa8)**
-<p>
-  <a href="https://www.linkedin.com/in/youngmin-ko-0994a411b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-</p> -->
-
-<div>
+<!-- <div>
   
   ![github stats](https://github-readme-stats.vercel.app/api?username=mandu0505)
   <br>
   ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mandu0505&hide_border=true&layout=compact)
  
-</div>
+</div> -->
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=H43RO&theme=chalk&row=1&column=6&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=mandu0505&theme=chalk&row=1&column=5&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<!--   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmandu0505&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmandu0505&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
