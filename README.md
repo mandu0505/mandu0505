@@ -17,7 +17,7 @@
 <h3>Website & Portfolio</h3>
  <p>
   <a href="https://mandu0505.notion.site/Youngmin-mandu0505-2753797a76154a47bacd179d0564fbb8" target="_blank" alt="resume">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=Notion&logoColor=white" />
   </a>
   <a href="https://mandu0505.com/" target="_blank" alt="website">
     <img src="https://img.shields.io/badge/-Website-blueviolet?style=flat-square&logoColor=white" />
