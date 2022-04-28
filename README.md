@@ -19,7 +19,7 @@
   <a href="https://mandu0505.com/" target="_blank" alt="website">
     <img src="https://img.shields.io/badge/-Website-blueviolet?style=flat-square&logoColor=white" />
   </a>
-   <a href="https://www.linkedin.com/in/youngmin-ko-0994a411b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<!--    <a href="https://www.linkedin.com/in/youngmin-ko-0994a411b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> -->
 </p>
 <br />
 <!-- <div>
